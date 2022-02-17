@@ -1,6 +1,6 @@
-# Assignment
+## Assignment
 
-## Brief
+### Brief
 
 In this assignment, you will be creating your personal bio information using HTML and CSS. Include the following information:
 
@@ -30,13 +30,13 @@ You should also utilize the following CSS Properties:
 - `width`
 - `height`
 
-## Submission 
+### Submission 
 
 - Submit the URL of the GitHub Repository that contains your work to NTU black board.
 - Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL. 
 
 
-## References
+### References
 
 _Example of Referencing Classmate_
 
