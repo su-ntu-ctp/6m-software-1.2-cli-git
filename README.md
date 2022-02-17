@@ -1,5 +1,18 @@
 # Command Line Interface & GIT (Code Version Control)
 
+## Module 1 Brief
+
+In module 1, learners will be going through the following topics during lesson:
+- Software Development Environment
+- Code Version Control with GIT
+- Software Testing Methodologies
+- Agile SCRUM
+
+Learners will be learning the following topics in the self studies materials and assignment:
+- HTML
+- CSS
+- JavaScript
+
 ## Dependencies
 
 Refer to the following markdown file for the respective sections of the class:
@@ -21,7 +34,6 @@ Learners will be able to:
 - Perform basic GIT commands such as `fork, clone, pull, add, commit and push`.
 - Send pull request via GitHub.com 
 - Fork this repository, clone to their local machine, make changes, and reflect the changes in their remote repository.
-
 
 ## Lesson Plan
 
