@@ -44,10 +44,63 @@ When you clone, you are copying a remote repository to your local machine (lapto
 
 ## Part 2 - Push Changes, Create Pull Request. (20 mins)
 
-Insert Instructions
+Follow these steps to try making changes and push them to the remote repository.
+
+Step 1: Create a new file `test.txt` in the cloned repository (folder). 
+
+Step 2: Open the file and simply type "testing 123" in it.
+
+Step 3: Open up the Terminal and ensure that you are in the directory of the cloned repository (folder) by using `pwd` command.
+
+Step 4: Stage the changed file by typing `git add .`
+
+Step 5: Commit it with a simple message `git commit -m "made changes"`.
+
+Step 6: Push the committed change to remote repository `git push origin main`.
+
+Step 7: Visit your remote repository at github.com to see the changes. The remote repository URL is `https://github.com/<your username>/6m-software-1.2-cli-git`.
+
+Step 8: Perform a pull request to the upstream repository 
+
+From: `https://github.com/your_username/6m-software-1.2-cli-git`
+
+To: `https://github.com/su-ntu-ctp/6m-software-1.2-cli-git` 
+
 
 ---
 
 ## Part 3 - HTML & CSS Recap. (40 mins)
 
-Insert Instructions
+There are many HTML tags and styling properties. The best way to reference them is through a [cheatsheet](https://htmlcheatsheet.com/).
+
+### Basic HTML
+
+Demonstrate to the learners the use of the following HTML tags:
+
+- `<html>`
+- `<head>`
+- `<body>`
+- `<title>`
+- `<h1>` to `<h6>`
+- `<p>`
+- `<ul>` and `<li>`
+- `<a href>`
+- `<img>`
+
+### Using the `style` attribute
+
+Try styling with the following properties:
+
+- `background-color`
+- `color`
+- `font-style`
+- `opacity`
+- `border-radius`
+
+### Using the <style> tag
+
+Try moving the applied styling into `<style>...</style>` tag.
+
+### Importing a CSS File
+
+Try moving the styling to `styles.css` file.
