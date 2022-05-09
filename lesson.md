@@ -4,6 +4,8 @@
 
 There is no self studies related to GIT. Learners should be informed that GIT is not easy to master and it will take years to become good. Learning on-demand is pretty much every Developers' experience in learning GIT.
 
+In the first half (1.5 hours) of the lesson, we will be learning about GIT. In the second half, we will be having a short recap on HTML and CSS which learners should have been working on their self studies. We will then use HTMl and CSS to create a simple profile page (refer to [assignment](./assignment.md)) and upload the code to GitHub using GIT CLI.
+
 ---
 
 ## Conceptual Knowledge about GIT (15 mins)
