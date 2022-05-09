@@ -40,8 +40,9 @@ You should also utilize the following CSS Properties:
 
 _Example of Referencing Classmate_
 
-Referenced the code block below from Terence.
+
 ```js
+    // Referenced the code block below from Terence.
     function printMe(){
         console.log("I am a reference example");
     }
