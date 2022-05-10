@@ -7,7 +7,7 @@ In this assignment, you will be creating your personal bio information using HTM
 - First Name
 - Last Name
 - GitHub URL (typically https://github.com/your_username)
-- Location (Use country image)
+- Location (Use country image or flag)
 - Hobbies (a list)
 - A short paragraph about you
 
