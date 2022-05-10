@@ -31,6 +31,7 @@ Learners will be able to:
 - Fork this repository, clone to their local machine, make changes, and reflect the changes in their remote repository.
 - Perform basic GIT commands such as `clone, pull, add, commit and push`.
 - Send pull request via GitHub.com 
+- Create a simple bio profile with HTML and CSS.
 
 ## Lesson Plan
 
