@@ -18,7 +18,7 @@ Minimally, you are to apply these HTML Tags:
 
 - `<h1>`
 - `<div>`
-- `<ul>` and `<li>`c
+- `<ul>` and `<li>`
 - `<p>`
 - `<img>`
 
