@@ -14,3 +14,7 @@ img {
     opacity: 0.8;
     border-radius: 50%;
 }
+
+.avatar {
+    width:200px;
+}
