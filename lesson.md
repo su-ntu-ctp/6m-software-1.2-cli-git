@@ -22,7 +22,7 @@ Check-in with learners for a short Q&A about the video.
 
 ### Fork and clone repository
 
-Step 1: Visit [this repository url](https://github.com/su-ntu-ctp/6m-software-1.2-cli-git) on the browser.
+Step 1: Visit [this dummy repository url](https://github.com/su-ntu-ctp/se-cohort1) on the browser.
 
 Step 2: Fork it as your own repository.
 
