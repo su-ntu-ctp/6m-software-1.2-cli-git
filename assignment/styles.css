@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    font-family: 'Montserrat', serif;
+    font-size: 32px;
+    font-weight: 300;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.cookie {
+    width: 200px;
+}
+
+.top {
+    background-color: #FBFACD;
+    height:55vh;
+}
+
+.btm {
+    background-color: #DEBACE;
+    height:45vh;
+}
