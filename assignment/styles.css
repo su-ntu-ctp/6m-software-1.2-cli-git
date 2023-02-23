@@ -1,0 +1,30 @@
+.body {
+    padding: 5px;
+}
+
+.generalDiv {
+    margin: 10px
+}
+
+.childElement {
+    margin-left: 10px;
+}
+
+.rowDiv {
+    display: flex;
+    align-items: center;
+}
+
+.marginRightDiv {
+    margin-right: 20px;
+}
+
+.generalInformationDiv {
+    margin-left: 10px
+}
+
+.locationImage {
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
