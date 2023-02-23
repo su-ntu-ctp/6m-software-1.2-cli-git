@@ -1,0 +1,21 @@
+p {
+    background-color : lightblue;
+}
+
+li {
+    color: darkblue;
+}
+
+h3 {
+    font-style: italic;
+}
+
+img {
+    opacity: 0.8;
+    border-radius:50%;
+}
+
+.avatar {
+    width: 300px;
+    height: 300px;
+}
