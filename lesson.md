@@ -46,7 +46,7 @@ When you clone, you are copying a remote repository to your local machine (lapto
 
 ## Part 2 - Push Changes, Create Pull Request. (20 mins)
 
-Follow these steps to try making changes and push them to the remote repository.
+Follow these steps to try making changes and push them to the remote repository. (6m-software-1.2-cli-git)
 
 Step 1: Create a new file `test.txt` in the cloned repository (folder). 
 
