@@ -30,7 +30,7 @@ Step 3: Launch VS Code and open the folder where you would clone all repositorie
 
 Step 4: Start a Terminal within VS Code.
 
-Step 5: Enter the command `git clone https://github.com/<your username>/se-cohort1` and hit Enter.
+Step 5: Enter the command `git clone https://github.com/<your username>/se-cohort2` and hit Enter.
 
 Step 6: A new folder should appear the directory.
 
