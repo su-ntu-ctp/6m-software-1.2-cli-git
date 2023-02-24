@@ -1,0 +1,33 @@
+p{
+    background-color:cadetblue;
+}
+li {
+    color: darkblue;
+}
+h1{
+    font-style: oblique;
+}
+.myDiv {
+        border: 5px outset rgb(7, 2, 54);
+        background-color:aliceblue;
+        text-align: center;
+        padding: 10px;
+      }
+h3{
+    font-style: italic;
+    color: black;
+    text-align: center;
+}
+img{
+    opacity:0.8;
+    border-radius: 10%;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-color: cadetblue;
+  }
+ 
