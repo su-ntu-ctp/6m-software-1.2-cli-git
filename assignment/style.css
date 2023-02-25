@@ -1,0 +1,100 @@
+/* Css template from
+https://github.com/codeforpride/MyResume*/
+
+body {
+    height: 60em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(
+      to bottom,
+      #d5f4e6,
+      18%,
+      #80ced6,
+      #fefbd8,
+      82%,
+      #618685
+    );
+  }
+  .sec1 {
+    width: 100%;
+    height: auto;
+  }
+  .cdiv1 {
+    background-color: #d5f4e6;
+    height: 4em;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.9;
+  }
+  
+  .cdiv1 a {
+    display: inline-block;
+    color: #618685;
+    text-align: center;
+    text-decoration: none;
+    padding: 25px 160px;
+    font-size: 1em;
+    font-weight: bold;
+    font: "Verdana";
+  }
+  .cdiv1 a:hover {
+    background-color: #618685;
+    color: #d5f4e6;
+    font-weight: bold;
+    font-size: 1em;
+    opacity: 0.9;
+  }
+  
+  .cdiv2 {
+    overflow: hidden;
+    background-color: #d5f4e6;
+    width: 40%;
+    float: left;
+    opacity: 1;
+  }
+  .cdiv2 img {
+    width: 20em;
+    height: 20em;
+    margin-left: 10em;
+    margin-top: 4em;
+    margin-bottom: 4em;
+  }
+  .cdiv3 {
+    overflow: auto;
+    background-color: #fefbd8;
+    overflow-wrap: break-word;
+    width: 32em;
+    float: right;
+    margin-top: 2em;
+    color: #25313c;
+    font: "Verdana";
+    font-size: 1.5em;
+    text-align: center;
+    margin-left: -20em;
+    opacity: 0.8;
+  }
+  .cdiv4 {
+    height: auto;
+    width: 95%;
+    float: right;
+    margin-top: 1em;
+    color: #fefced;
+    font-size: 1.5em;
+    text-align: center;
+    background-color: #618685;
+    margin-left: -20em;
+    opacity: 0.8;
+  }
+  
+  figure {
+    float: left;
+    width: 45%;
+    text-align: center;
+    font: "Verdana";
+    color: #25313c;
+    font-size: larger;
+    text-indent: 0;
+    margin: 0.5em;
+    padding: 0.5em;
+  }
+  
