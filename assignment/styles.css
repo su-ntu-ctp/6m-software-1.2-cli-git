@@ -1,6 +1,7 @@
 
 img {
   width: 100px;
+  padding: 10px;
   border-radius: 50px;
   float: right;
   margin-right: 10px;
@@ -8,4 +9,12 @@ img {
 em {
     color: red;
     
+}
+
+.SG {
+  display: block;
+  width: 200px;
+  height: 100px;
+  border-radius: 10px;
+  margin-right: 100px;
 }
