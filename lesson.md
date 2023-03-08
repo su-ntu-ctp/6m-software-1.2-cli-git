@@ -68,6 +68,7 @@ From: `https://github.com/your_username/6m-software-1.2-cli-git`
 
 To: `https://github.com/su-ntu-ctp/6m-software-1.2-cli-git` 
 
+> If you have problems with credentials when pushing to Github.com, you can just follow the onscreen instructions to add your email and name. WSL users need to run `gh auth login` to do a one-time authentication. You might need to run `sudo apt install gh` first.
 
 ---
 
