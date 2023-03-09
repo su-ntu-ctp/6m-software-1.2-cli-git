@@ -22,7 +22,7 @@ Check-in with learners for a short Q&A about the video.
 
 ### Fork and clone repository
 
-Step 1: Visit [this dummy repository url](https://github.com/su-ntu-ctp/se-cohort1) on the browser.
+Step 1: Visit [this dummy repository url](https://github.com/su-ntu-ctp/se-cohort2) on the browser.
 
 Step 2: Fork it as your own repository.
 
@@ -30,7 +30,7 @@ Step 3: Launch VS Code and open the folder where you would clone all repositorie
 
 Step 4: Start a Terminal within VS Code.
 
-Step 5: Enter the command `git clone https://github.com/su-ntu-ctp/se-cohort1` and hit Enter.
+Step 5: Enter the command `git clone https://github.com/<your username>/se-cohort2` and hit Enter.
 
 Step 6: A new folder should appear the directory.
 
@@ -46,7 +46,7 @@ When you clone, you are copying a remote repository to your local machine (lapto
 
 ## Part 2 - Push Changes, Create Pull Request. (20 mins)
 
-Follow these steps to try making changes and push them to the remote repository.
+Follow these steps to try making changes and push them to the remote repository. (6m-software-1.2-cli-git)
 
 Step 1: Create a new file `test.txt` in the cloned repository (folder). 
 
@@ -68,6 +68,7 @@ From: `https://github.com/your_username/6m-software-1.2-cli-git`
 
 To: `https://github.com/su-ntu-ctp/6m-software-1.2-cli-git` 
 
+> If you have problems with credentials when pushing to Github.com, you can just follow the onscreen instructions to add your email and name. WSL users need to run `gh auth login` to do a one-time authentication. You might need to run `sudo apt install gh` first.
 
 ---
 
