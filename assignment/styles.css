@@ -1,0 +1,138 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #d3e5e8;
+}
+
+.userInfo {
+    background-color: #b8bff7;
+}
+
+.userAvatar {
+    position: relative;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 30px 0px 0px 30px;
+    border: 5px solid white;
+}
+
+.countryFlag {
+    position: absolute;
+    height: 80px;
+    width: 100px;
+    top: 220px;
+    left: 220px;
+    padding-right: 10px;
+}
+
+h1 {
+    text-align: left;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    margin: 10px;
+}
+
+.flex-container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.flex-container>.myPost {
+    background-color: #d3e5e8;
+    width: 75%;
+    height: 100vh;
+}
+
+.myPost {
+    margin: 0;
+    padding: 0;
+    display: inline-table;
+    /* flex-direction: column;
+    align-items: stretch;
+    gap: 15px; */
+}
+
+.postOne {
+    background-color: #87CEFA;
+    margin: 10px;
+    padding: 10px;
+}
+
+.postTwo {
+    background-color: #87CEFA;
+    margin: 10px;
+    padding: 10px;
+}
+
+.postThree {
+    background-color: #87CEFA;
+    margin: 10px;
+    padding: 10px;
+}
+
+.postFour {
+    background-color: #87CEFA;
+    margin: 10px;
+    padding: 10px;
+}
+
+.flex-container>.myAds {
+    justify-content: flex-end;
+    height: 100vh;
+    width: 25%;
+    background-color: #35bcbf;
+}
+
+.myAds{
+    margin: 0;
+    padding: 0;
+    display: inline-table;
+}
+
+.ads{
+    float: left;
+}      
+
+.adsOne{
+    background-color: #ff5959;
+    margin: 10px;
+    padding: 5px;
+}
+
+.adsTwo{
+    background-color: rosybrown;
+    margin: 10px;
+    padding: 5px;
+}
+
+.adsThree{
+    background-color: #f0d78c;
+    margin: 10px;
+    padding: 5px;
+}
+
+#footer {
+    display: inline-block;
+    background-color: #BCBCBC;
+    width: 100%;
+    color: white;
+    text-align: left;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.contactOne {
+    height: 30px;
+    width: 30px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
