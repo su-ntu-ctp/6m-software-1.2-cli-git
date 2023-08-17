@@ -22,6 +22,9 @@ Check-in with learners for a short Q&A about the video.
 
 ### Fork and clone repository
 
+> If you have problems with credentials when cloning, committing, or pushing to Github.com, you can install Github CLI via [link](https://cli.github.com)
+> OR you can just follow the onscreen instructions to add your email and name. 
+
 Step 1: Visit [this dummy repository url](https://github.com/su-ntu-ctp/se-cohort-git-practice) on the browser.
 
 Step 2: Fork it as your own repository.
@@ -67,8 +70,6 @@ Step 8: Perform a pull request to the upstream repository
 From: `https://github.com/your_username/6m-software-1.2-cli-git`
 
 To: `https://github.com/su-ntu-ctp/6m-software-1.2-cli-git` 
-
-> If you have problems with credentials when pushing to Github.com, you can just follow the onscreen instructions to add your email and name. WSL users need to run `gh auth login` to do a one-time authentication. You might need to run `sudo apt install gh` first.
 
 ---
 
