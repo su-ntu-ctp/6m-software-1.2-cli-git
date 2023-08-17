@@ -1,4 +1,4 @@
-# Source Code Version Control with Git - Instructor Version
+# Source Code Version Control with Git - Instructor Version - In a New Branch
 
 ## Dependencies
 
