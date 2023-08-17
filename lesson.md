@@ -22,7 +22,7 @@ Check-in with learners for a short Q&A about the video.
 
 ### Fork and clone repository
 
-Step 1: Visit [this dummy repository url](https://github.com/su-ntu-ctp/se-cohort3) on the browser.
+Step 1: Visit [this dummy repository url](https://github.com/su-ntu-ctp/se-cohort-git-practice) on the browser.
 
 Step 2: Fork it as your own repository.
 
