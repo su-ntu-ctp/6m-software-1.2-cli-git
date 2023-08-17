@@ -1,6 +1,6 @@
 # Source Code Version Control with Git
 
-## Dependencies
+## Dependencies (title chage)
 
 Refer to the following markdown file for the respective sections of the class:
 - [Self Studies](./studies.md)
