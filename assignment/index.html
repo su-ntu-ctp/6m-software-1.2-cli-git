@@ -1,8 +1,61 @@
+<!-- 
+In this assignment, you will be creating your personal bio information using HTML and CSS. Include the following information:
+
+    First Name
+    Last Name
+    GitHub URL (typically https://github.com/your_username)
+    Location (Use country image or flag) - done
+    Hobbies (a list) - done
+    A short paragraph about you - done
+
+Minimally, you are to apply these HTML Tags:
+
+    <h1> - done
+    <div> - done
+    <ul> and <li> - done
+    <p> - done
+    <img> - done
+ -->
+
+
 <html>
-    <head>
-        <link rel="stylesheet" href="styles.css" />
-    </head>
-    <body>
-        <!-- Add Code Here -->
-    </body>
+
+<head>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <!-- Add Code Here -->
+    <div id="profile-photo"><img class="circle-image"
+            src="profile.png"></div>
+    <h1>ELLY CHIO</h1>
+    <hr style="width:50%">
+    <p>
+        Hi, I'm Elly from <img class="flag" src="flag.png">!
+    </p>
+    <p>
+        After graduating from Computer Science in 2014, my journey led me to transition into the field of special needs education.
+        It was a deeply meaningful time, and I'm now excited for the next chapter of my life as I dive back into the tech sector!
+    </p>
+    <p>
+            Check out my <a href="https://github.com/chioyili">GitHub</a> :)
+    </p>
+    <div id="hobbies">
+        Some of my favourite things:
+        <ul class="inline">
+            <li>Choir & music</li>
+            <li>Learning languages</li>
+            <li>Long walks</li>
+            <li>Swimming</li>
+            <li>Yin yoga</li>
+            <li>Journalling</li>
+            <li>Afternoon naps</li>
+        </ul>
+    </div>
+    <div id="footer">
+        Image of the Singapore flag courtesy of <a href="https://en.wikipedia.org/wiki/Flag_of_Singapore">Wikipedia</a>.
+        Profile picture courtesy of <a href="https://picrew.me/en/search/creator?crid=303794">makowka</a>.
+    </div>
+</body>
+
 </html>
