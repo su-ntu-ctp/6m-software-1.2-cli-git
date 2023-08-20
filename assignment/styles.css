@@ -5,17 +5,11 @@ body {
     color: #f7f9f7;
     text-align: center;
     font-family: 'Montserrat', serif;
+    padding: 50px;
 
     /*centers the page */
     max-width: 960px;
     margin: auto;
-    padding-top: 50px;
-}
-
-h1 {
-    font-size: 4em;
-    margin-top: 1%;
-    margin-bottom: 0%;
 }
 
 a:link {
@@ -26,32 +20,39 @@ a:visited {
     color: #f7f9f7;
 }
 
+h1 {
+    font-size: 4em;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+
+hr {
+    width: 50%;
+}
+
 ul {
     text-align: center;
     list-style-position: inside;
 }
-  
+
 /* classes */
 .circle-image {
     border-radius: 50%;
-    max-width:100%;
-    max-height:100%;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .flag {
-    display:inline-block;
-    height:1em;
-    /*width:auto;*/
+    display: inline-block;
+    height: 1em;
 }
 
 /* ID */
 #profile-photo {
-    height: 300px;
-    /*width: 300px;*/
+    height: 300px
 }
 
 #footer {
     font-size: 0.5em;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    margin-top: 5%;
 }
