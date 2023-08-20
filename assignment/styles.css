@@ -1,0 +1,27 @@
+h1 {
+    color: green;
+    padding: 10px;
+}
+p {
+    color: blue;
+}
+img.profilepic {
+    width: 200px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 500px;
+}
+span {
+    color: blue;
+}
+img.flag {
+    width: 50px;
+    height: auto;
+    display: inline;
+}
+ul {
+    color: blue;
+}
+div {color: blue;
+}
