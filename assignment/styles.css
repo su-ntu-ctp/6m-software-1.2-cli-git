@@ -1,13 +1,3 @@
-/*
-You should also utilize the following CSS Properties:
-
-display
-padding
-margin
-width
-height
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
@@ -41,9 +31,7 @@ ul {
     list-style-position: inside;
 }
   
-/*classes*/
-
-
+/* classes */
 .circle-image {
     border-radius: 50%;
     max-width:100%;
@@ -56,7 +44,7 @@ ul {
     /*width:auto;*/
 }
 
-/*ID*/
+/* ID */
 #profile-photo {
     height: 300px;
     /*width: 300px;*/
