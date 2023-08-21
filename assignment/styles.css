@@ -1,0 +1,60 @@
+img {
+    display: block;
+    width: 80%;
+    height: 80% ;
+    margin: auto;
+    
+  }
+
+
+
+h1 {
+    display: grid;
+    padding: 10px;
+    background-color: aquamarine;
+    text-align: center;
+    border: gray solid 2px;
+    border-radius: 10px;
+}
+
+h2 {
+    padding: 20px;
+    background-color: red;
+    text-align: center;
+    color: yellow ;
+    border: gray solid 2px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+h3 {
+    padding: 30px;
+    background-color: greenyellow;
+    text-align: center;
+    color: brown ;
+    border: gray solid 2px;
+    font: 35px Comic;
+    border-radius: 10px;
+    align-items: center;
+}
+
+
+div.container {
+    text-align: center;
+  }
+
+ul {
+    display: inline-block;
+    text-align: left;
+  }
+
+p {
+    display: grid;
+    padding: 10px;
+    background-color: gold;
+    text-align: center;
+    font: 25px Calibri;
+    border: gray solid 2px;
+    border-radius: 10px;
+    
+}
