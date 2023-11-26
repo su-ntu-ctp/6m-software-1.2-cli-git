@@ -1,0 +1,31 @@
+.profile_info {
+  border: 5px outset red;
+  padding-left: 20px;
+  background-color: rgb(225, 205, 212);
+  text-align: left;
+  display: block;
+}
+
+li {
+  color: darkblue;
+}
+
+h1 {
+  font-style: italic;
+  font-family: "Mali", cursive;
+}
+
+img {
+  margin-left: 10px;
+}
+
+.profile_pic {
+  width: 200px;
+  opacity: 0.8;
+  border-radius: 50%;
+}
+
+.country_flag {
+  height: 50px;
+  width: 80px;
+}
