@@ -1,0 +1,33 @@
+.main {
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+}
+
+body {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+    color:red
+}
+
+h2 {
+    color:blue
+}
+
+.profile-picture {
+    text-align: center;
+}
+
+img {
+    max-width: auto;
+    height: 150px;
+}
+
+.hobbies li {
+    list-style-type: square;
+}
