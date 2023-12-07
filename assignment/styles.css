@@ -1,0 +1,47 @@
+<style>
+em {
+  color: red;
+  font-weight: bold;
+}
+
+img.myprofile {
+  width: 300px;
+  border-radius: 200px;
+  float: left;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  padding-left: 10px;
+  display: block;
+}
+
+img.myflag {
+  width: 50px;
+  height: auto;
+  margin: 10px;
+}
+
+p {
+  color: black;
+}
+
+h2 {
+  color: hotpink;
+}
+
+h3.myhobbies {
+  color: deeppink;
+}
+
+h3.myaboutme {
+  padding-left: 100px;
+  color: crimson;
+  display: block;
+
+}
+
+p.myaboutme {
+  padding-left: 100px;
+}
+</style>
