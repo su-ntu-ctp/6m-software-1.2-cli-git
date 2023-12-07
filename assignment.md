@@ -12,6 +12,7 @@ In this assignment, you will be creating your personal bio information using HTM
 - A short paragraph about you
 
 Optional:
+
 - An image of yourself
 
 Minimally, you are to apply these HTML Tags:
@@ -30,23 +31,21 @@ You should also utilize the following CSS Properties:
 - `width`
 - `height`
 
-### Submission 
+### Submission
 
 - Submit the URL of the GitHub Repository that contains your work to NTU black board.
 - Always store your assignments in the `assignments` folder.
-- Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL. 
-
+- Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL.
 
 ### References
 
 _Example of Referencing Classmate_
 
-
 ```js
-    // Referenced the code block below from Terence.
-    function printMe(){
-        console.log("I am a reference example");
-    }
+// Referenced the code block below from Terence.
+function printMe() {
+  console.log("I am a reference example");
+}
 ```
 
 _Example of Referencing Online Resources_
@@ -54,4 +53,3 @@ _Example of Referencing Online Resources_
 - https://developer.mozilla.org/en-US/
 - https://www.w3schools.com/html/
 - https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
-
