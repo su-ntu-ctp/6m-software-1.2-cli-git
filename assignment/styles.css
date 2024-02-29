@@ -1,0 +1,27 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    max-width: 600px;
+    background-color: peachpuff;
+}
+
+italics {
+    font-style: italic;
+}
+
+img {
+    border-radius: 25px;
+    max-width: 600px;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+p {
+    padding: 5px;
+    text-align: justify;
+    font-size: 15;
+}
+
+li {
+    padding-bottom: 10px;
+    font-style: bold;
+}
