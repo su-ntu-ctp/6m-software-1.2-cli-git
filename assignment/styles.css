@@ -1,0 +1,47 @@
+h1 {
+    color: rgb(46, 46, 207);
+}
+
+img {
+    height: 200px;
+    padding: 5px;
+    margin: 2px 2px 2px 10;
+}
+
+.container {
+    display: grid;
+    padding-left: 100px;
+    align-items: center; 
+    font-family: Arial, sans-serif;
+    grid-template-columns: 1fr 1.5fr 1fr;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.p-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+li {
+    display: inline;
+    margin-right: 30px;
+}
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgba(206, 206, 206, 0.911);
+}
+Footer small {
+    font-size: 20px;
+    color: rgba(109, 109, 109, 0.966);
+    font-family: Arial, sans-serif;
+}
