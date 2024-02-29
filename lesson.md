@@ -20,7 +20,7 @@ Check-in with learners for a short Q&A about the video.
 
 ## Part 1 - Fork, Clone. (30 mins)
 
-### Fork and clone repository
+### Fork and clone repository 
 
 > If you have problems with credentials when cloning, committing, or pushing to Github.com, you can install Github CLI via [link](https://cli.github.com)
 > OR you can just follow the onscreen instructions to add your email and name. 
