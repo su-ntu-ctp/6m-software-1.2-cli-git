@@ -1,5 +1,17 @@
+/* 
+selector {
+    property: value;
+}
+
+id selector: targets elements with id attribute -> #
+class selector: targets all elements with class attribute -> .
+universal selector: targets all elements -> *
+element selector: targets all elements with the same tag -> ex. p
+*/
+
 p {
     background-color: lightblue;
+    color: #296327;
 }
 
 li {
@@ -18,3 +30,7 @@ img {
 .avatar {
     width:200px;
 }
+
+/* 
+measurements in css: px, em, %
+*/
