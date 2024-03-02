@@ -1,0 +1,21 @@
+.flag{
+    height:50px;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+body{
+    vertical-align: middle;
+}
+
+
+.align-vert{
+    display: flex;
+    align-items:center;
+}
+
+span{
+    margin: 0 10px 0 0;
+}
