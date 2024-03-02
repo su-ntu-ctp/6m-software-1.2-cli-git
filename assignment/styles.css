@@ -1,0 +1,42 @@
+.all > div {
+  width: 800px;
+  border: 2px solid black;
+  margin-bottom: 20px;
+  background-color: aqua;
+}
+
+div .Name {
+  background-color: rgb(170, 151, 247);
+}
+
+div .URL {
+  background-color: rgb(250, 162, 138);
+}
+
+div .hobbies {
+  background-color: rgb(116, 248, 136);
+}
+
+div .Location {
+  background-color: rgb(8, 247, 223);
+}
+
+div .Intro {
+  background-color: rgb(238, 249, 163);
+}
+
+h2 {
+  margin: 0px;
+}
+
+ul {
+  margin: 0px;
+}
+
+p {
+  margin: 0px;
+}
+
+img {
+  width: 200px;
+}

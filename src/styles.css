@@ -1,20 +1,37 @@
+/*
+selector {
+    property: value;
+}
+
+id selector -> #
+class seclector -> .
+universal selector: targets all elements -> *
+element selector -> p
+
+*/
+
 p {
-    background-color: lightblue;
+  background-color: lightblue;
+  color: #2e17d7;
 }
 
 li {
-    color:darkblue;
+  color: rgb(216, 109, 32);
 }
 
 h3 {
-    font-style:italic;
+  font-style: italic;
 }
 
 img {
-    opacity: 0.8;
-    border-radius: 50%;
+  opacity: 0.8;
+  border-radius: 50%;
 }
 
 .avatar {
-    width:200px;
+  width: 200px;
 }
+
+/*
+measurements in css： px, em, %
+*/
