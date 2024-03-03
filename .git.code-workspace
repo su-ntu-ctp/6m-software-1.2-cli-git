@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../6m-software-1.1-sd-intro/.git"
+		},
+		{
+			"path": "../6m-software-1.1-sd-intro/assets"
+		},
+		{
+			"path": "../6m-software-1.1-sd-intro/src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "src"
+	}
+}

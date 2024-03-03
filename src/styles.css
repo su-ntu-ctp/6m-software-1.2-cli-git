@@ -1,20 +1,36 @@
-p {
-    background-color: lightblue;
+/*
+selector {
+    property: value;
+
 }
 
-li {
-    color:darkblue;
+.p {
+    background-color: rgb(176, 184, 228);
+}
+ 
+*/
+body {
+    background-image: url("../assets/EstherChin_website.svg");
+    background-size: cover;
 }
 
-h3 {
-    font-style:italic;
-}
+.profile-picture { 
+    width: 150px; 
+    height: 100px; 
+    margin-right: 20px; 
+} 
 
-img {
-    opacity: 0.8;
-    border-radius: 50%;
-}
+.container { 
+    display: flex; 
+    align-items: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background-color: rgb(207, 212, 241);
+    padding: 10px; 
+    margin: 0; 
+} 
 
-.avatar {
-    width:200px;
-}
+.details { 
+    display: flex; 
+    flex-direction: column; 
+} 
+ 
