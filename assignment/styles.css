@@ -1,17 +1,23 @@
 img {
-    height: 100px;
-    width: 120px;
-}
-h1, h2{
-    margin-top: 35px;;
-}
-*{
-    margin: 5px;
+  height: 70px;
+  width: 120px;
+  border-radius: 50px;
+  float: right;
+  margin-right: 10px;
 }
 
-div{
-    padding:25px;
+h1,
+h2 {
+  margin-top: 35px;
 }
-li{
-    display: list-item;
+
+* {
+  margin: 5px;
+}
+
+.summary {
+  padding: 25px;
+}
+li {
+  display: list-item;
 }
