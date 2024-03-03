@@ -1,0 +1,25 @@
+body {
+    background-image: url("../assets/EstherChin_website.svg");
+    background-size: cover;
+}
+
+.profile-picture { 
+    width: 150px; 
+    height: 100px; 
+    margin-right: 20px; 
+} 
+
+.container { 
+    display: flex; 
+    align-items: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background-color: rgb(207, 212, 241);
+    padding: 10px; 
+    margin: 0; 
+} 
+
+.details { 
+    display: flex; 
+    flex-direction: column; 
+} 
+ 
