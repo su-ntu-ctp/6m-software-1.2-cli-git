@@ -2,7 +2,7 @@ img {
   height: 70px;
   width: 120px;
   border-radius: 50px;
-  float: right;
+  float: inline-start;
   margin-right: 10px;
 }
 
