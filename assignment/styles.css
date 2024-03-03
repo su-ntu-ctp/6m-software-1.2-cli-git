@@ -1,0 +1,17 @@
+img {
+    height: 100px;
+    width: 120px;
+}
+h1, h2{
+    margin-top: 35px;;
+}
+*{
+    margin: 5px;
+}
+
+div{
+    padding:25px;
+}
+li{
+    display: list-item;
+}
