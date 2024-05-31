@@ -1,13 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 p {
     background-color: lightblue;
 }
 
 li {
-    color:darkblue;
+    color: darkblue;
 }
 
 h3 {
-    font-style:italic;
+    font-style: italic;
 }
 
 img {
@@ -16,5 +22,15 @@ img {
 }
 
 .avatar {
-    width:200px;
+    width: 500px;
 }
+
+#react {
+    color: green;
+}
+
+/* 
+to target ids: use #
+to target classes: use .
+to target every element: use * (universal selector)
+*/
