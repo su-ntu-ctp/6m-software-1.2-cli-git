@@ -1,0 +1,169 @@
+/* General Styling */
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/* Variables for Light and Dark Mode */
+:root {
+    --background-color: #f4f7fc;
+    --card-background: #fff;
+    --text-color: #333;
+    --link-color: #007bff;
+    --link-hover: #0056b3;
+    --border-color: #ddd;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #121212;
+        --card-background: #1e1e1e;
+        --text-color: #e0e0e0;
+        --link-color: #82aaff;
+        --link-hover: #357abd;
+        --border-color: #333;
+        --shadow-color: rgba(0, 0, 0, 0.5);
+    }
+}
+
+.bio-container {
+    max-width: 900px;
+    background: var(--card-background);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px var(--shadow-color);
+    border: 1px solid var(--border-color);
+}
+
+/* Header */
+header h1 {
+    text-align: center;
+    color: var(--text-color);
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+/* Profile Section */
+.profile-section {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid var(--border-color);
+    object-fit: cover;
+}
+
+.basic-info p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.basic-info a {
+    color: var(--link-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.basic-info a:hover {
+    color: var(--link-hover);
+}
+
+.flag {
+    width: 20px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+/* Hobbies Section */
+.hobbies {
+    margin-bottom: 30px;
+}
+
+.hobbies h2 {
+    color: var(--text-color);
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.hobbies ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    justify-content: center;
+    padding: 0;
+}
+
+.hobby-item {
+    text-align: center;
+    background: var(--card-background);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    padding: 15px;
+    width: 200px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hobby-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px var(--shadow-color);
+}
+
+.hobby-img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+/* About Section */
+.about {
+    line-height: 1.8;
+}
+
+.about h2 {
+    color: var(--text-color);
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.about p {
+    margin-bottom: 15px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .profile-section {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hobbies ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .hobby-item {
+        width: 100%;
+        max-width: 300px;
+    }
+}
+
+
+// Referenced the CSS flexbox layout example from W3Schools
+// URL: https://www.w3schools.com/css/css3_flexbox.asp
