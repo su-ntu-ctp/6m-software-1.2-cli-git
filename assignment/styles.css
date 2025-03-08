@@ -1,0 +1,23 @@
+img {
+  height: 70px;
+  width: 120px;
+  border-radius: 50px;
+  float: inline-start;
+  margin-right: 10px;
+}
+
+h1,
+h2 {
+  margin-top: 35px;
+}
+
+* {
+  margin: 5px;
+}
+
+.summary {
+  padding: 25px;
+}
+li {
+  display: list-item;
+}
