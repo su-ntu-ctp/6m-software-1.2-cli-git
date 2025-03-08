@@ -1,0 +1,34 @@
+* {
+    padding: 10px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: blue;
+}
+p {
+    background-color: lightblue;
+}
+
+li {
+    color: darkblue;
+}
+
+h2 {
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+.flag {
+    position: absolute;
+    height: 10%;
+    margin-left: 0%;
+    top: 210px;
+}
+
+/* 
+to target ids: use #
+to target classes: use .
+to target every element: use * (universal selector)
+*/
